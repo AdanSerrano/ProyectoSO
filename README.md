@@ -1,17 +1,6 @@
-<h1 align="center">Firebase MultiFactor Authentication</h1><br>
-<p align="center">  
-This repository is part of a video that explains how to build a multifactor authentication with Firebase.
-You can find the video <a href="https://youtu.be/Py5K_rv1_3A/">here</a>
-</p>
-<br>
-
-<p align="center">
-  <img src="/public/readme.jpg" alt="Image" style="margin: 50px 0px 50px 0px"/>
-</p>
-
 ## Online Version
 
-Go to the [link of the project](https://firebase-mfa.vercel.app/) to see the sample app.
+Go to the [link of the project](https://login-registration-so.vercel.app/login) to see the sample app.
 
 ## Tech stack & Open-source libraries
 
